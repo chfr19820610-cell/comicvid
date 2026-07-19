@@ -1,6 +1,7 @@
 # comicvid
 
-**Static images to animated video — Ken Burns zoom + ASS subtitles + audio sync.**
+[![PyPI](https://img.shields.io/pypi/v/comicvid)](https://pypi.org/project/comicvid/)
+[![GitHub](https://img.shields.io/badge/github-chfr19820610--cell/comicvid-blue)](https://github.com/chfr19820610-cell/comicvid)
 
 Turn a folder of images into a polished MP4 video with a single command. Pure FFmpeg + Python — zero API costs.
 
